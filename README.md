@@ -1,3 +1,4 @@
+![Imagen de pseudocódigo](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/56b7f2ab-e22c-4b34-b24b-1fd7ace3d2cf/pseudocodigo.jpg?t=1715415711)
 # Guía de Ejercicios - Clase 3
 ## Operadores Matemáticos en Pseudocódigo
 📌 **Objetivo:**
