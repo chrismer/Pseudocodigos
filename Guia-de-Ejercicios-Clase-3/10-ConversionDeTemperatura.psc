@@ -5,4 +5,3 @@ Algoritmo ConversionDeTemperatura
     fahrenheit <- (celsius * 9 / 5) + 32
     Escribir "La temperatura en grados Fahrenheit es: ", fahrenheit
 FinAlgoritmo
-
